@@ -1,0 +1,6 @@
+{
+  "name": "Roma Aeterna 117 AD - Living Ancient Rome 3D Simulation",
+  "description": "An immersive, living 3D historical reconstruction of Imperial Rome at its peak (117 AD) featuring animated citizens, legionaries, merchants, and detailed monuments including the Colosseum, Roman Forum, and Pantheon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
